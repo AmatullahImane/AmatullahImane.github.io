@@ -1,0 +1,17 @@
+/*mon code css*/
+body::before
+{
+  background: url("../img/kenza2.jpg");
+  background-size: cover; /*prendre tout l'ecran*/
+  background-position: center center; /* Centrer l'image */
+  background-repeat: no-repeat; 
+}
+.mon_h2 {
+  font-family: "Garamond";
+}
+
+.Jumbotron
+{
+  font-family: 'Garamond';/*sans-serif;*/
+  font-size: 20px;
+}
